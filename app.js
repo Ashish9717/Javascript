@@ -1,0 +1,10 @@
+console.log("Hello World!");
+console.log("Apna College!");
+let a = 10 ;
+let b= 5;
+console.log("Sum is :" , a+b);
+let pencilPrice =10;
+let erasorPrice = 5;
+console.log("The total price is :",pencilPrice+erasorPrice, "Rupess.");
+let output =`The total price is: ${pencilPrice} Rupees.`;
+console.log(output);
