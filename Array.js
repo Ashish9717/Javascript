@@ -9,3 +9,8 @@ let info =["Arjun",1,6.8,10];
 
 let emptyArr =[];
 console.log(info.length);
+
+students[0] ="shail";
+console.log(students);
+students[11] ="Aayushi";
+console.log(students.length);
